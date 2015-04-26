@@ -1,3 +1,0 @@
-The sources of cwtex-q-fonts are available:
-
-http://code.google.com/p/cwtex-q-fonts/
