@@ -1,2 +1,2 @@
 # cwtex-q-fonts-TTFs
-TTFs of cwtex-q-fonts
+Compiled TTFs of cwtex-q-fonts. See https://github.com/l10n-tw/cwtex-q-fonts
